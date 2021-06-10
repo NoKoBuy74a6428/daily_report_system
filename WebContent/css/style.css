@@ -87,9 +87,6 @@ button {
 
 
 
-
-
-
 table#employee_list th {
     width: 30%;
     padding: 10px 2%;
@@ -108,4 +105,6 @@ tr.row0 {
 }
 
 
-
+select {
+    height: 30px;
+}
