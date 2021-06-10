@@ -73,7 +73,6 @@ button {
 }
 
 
-
 #flush_success {
     width: 100%;
     padding-top: 28px;
@@ -83,8 +82,6 @@ button {
     color: #155724;
     background-color: #d4edda;
 }
-
-
 
 table#employee_list th {
     width: 30%;
@@ -129,4 +126,26 @@ select {
 
 h1 a {
     color: #eeeeee;
+}
+
+
+table#report_list th {
+    font-weight: bold;
+    padding: 10px 2%;
+}
+
+table#report_list .report_name {
+    width: 20%;
+    padding: 10px 2%;
+}
+table#report_list .report_date {
+    width: 20%;
+}
+
+table#report_list .report_title {
+    width: 37%;
+}
+
+table#report_list .report_action {
+    width: 13%;
 }
